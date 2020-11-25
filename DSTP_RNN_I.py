@@ -426,7 +426,6 @@ class DSTP_rnn(nn.Module):
             i += self.batch_size
         return y_pred_price
 
-# X, y= read_data("2324.TW.csv", debug=False)
 X, y= read_NDX('nasdaq100_padding.csv', debug=False)
 
 model = DSTP_rnn(X, y, 10 , 128, 128, 128, 0.001, 50)
