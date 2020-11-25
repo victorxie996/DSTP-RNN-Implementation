@@ -15,7 +15,6 @@ import pandas as pd
 # import matplotlib
 # matplotlib.use('Agg')
 
-
 def read_NDX(input_path, debug=True):
     """Read nasdaq stocks data.
 
