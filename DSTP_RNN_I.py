@@ -3,7 +3,7 @@ Reference  https://github.com/Zhenye-Na/DA-RNN
 """
 # -*- coding: utf-8 -*-
 
-from ops import *
+from utils import *
 from torch.autograd import Variable
 import torch
 from torch import cuda
