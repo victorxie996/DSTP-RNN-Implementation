@@ -4,6 +4,6 @@ This is one preliminary implementation example for the paper:《[DSTP-RNN: A Dua
 
 Results
 -------
-Here is some simple experiment results.
+Here are some simple experiment results.
 ![image](https://github.com/victorxie996/DSTP-RNN-Implementation/blob/main/imgs/loss.png)
 ![image](https://github.com/victorxie996/DSTP-RNN-Implementation/blob/main/imgs/pred.png)
